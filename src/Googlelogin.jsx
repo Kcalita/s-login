@@ -30,14 +30,14 @@ function Googlesociallogin() {
       {islogedin ? (
         <GoogleLogout
           clientId='562677907760-7m99omjeao1ebmgn1ms024mp3pufpcmj.apps.googleusercontent.com'
-          buttonText='Login With Google'
+          buttonText='Log out'
           onLogoutSuccess={logoutsuccess}
           onFailure={logoutfail}
         />
       ) : (
         <GoogleLogin
           clientId='562677907760-7m99omjeao1ebmgn1ms024mp3pufpcmj.apps.googleusercontent.com'
-          buttonText='Logout'
+          buttonText='Login With Google'
           onSuccess={loginsuccess}
           onFailure={loginfail}
           cookiePolicy={'single_host_origin'}

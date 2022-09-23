@@ -5,7 +5,7 @@ function _readOnlyError(name) {
   throw new TypeError("\"" + name + "\" is read-only");
 }
 
-function Googlelogin() {
+function Googlesociallogin() {
   var _useState = useState(false),
       islogedin = _useState[0];
 
@@ -47,5 +47,5 @@ function Googlelogin() {
   }), accesstoken ? /*#__PURE__*/React.createElement("h5", null, "your accesstoken: ", /*#__PURE__*/React.createElement("br", null), /*#__PURE__*/React.createElement("br", null), " ", accesstoken, ' ') : null);
 }
 
-export default Googlelogin;
+export default Googlesociallogin;
 //# sourceMappingURL=index.modern.js.map
