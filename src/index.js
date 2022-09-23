@@ -1,6 +1,6 @@
 // import React from 'react'
 // import styles from './styles.module.css'
-import Googlelogin from './Googlelogin'
+import Googlesociallogin from './Googlelogin'
 
 // const ExampleComponent = ({ text }) => {
 //   return <div className={styles.test}>Example Component: {text}</div>
@@ -8,4 +8,4 @@ import Googlelogin from './Googlelogin'
 
 // export default ExampleComponent
 
-export default Googlelogin
+export default Googlesociallogin

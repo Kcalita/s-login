@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { GoogleLogin, GoogleLogout } from 'react-google-login'
 
-function Googlelogin() {
+function Googlesociallogin() {
   const [islogedin, setislogedin] = useState(false)
   const [accesstoken, setaccesstoken] = useState(' ')
 
@@ -54,4 +54,4 @@ function Googlelogin() {
   )
 }
 
-export default Googlelogin
+export default Googlesociallogin
