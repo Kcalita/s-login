@@ -9,5 +9,5 @@ var ExampleComponent = function ExampleComponent(_ref) {
   }, "Example Component: ", text);
 };
 
-export { ExampleComponent };
+export default ExampleComponent;
 //# sourceMappingURL=index.modern.js.map

@@ -11,5 +11,5 @@ var ExampleComponent = function ExampleComponent(_ref) {
   }, "Example Component: ", text);
 };
 
-exports.ExampleComponent = ExampleComponent;
+module.exports = ExampleComponent;
 //# sourceMappingURL=index.js.map
