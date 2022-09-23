@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ExampleComponent from '../../src'
+import ExampleComponent from 'react-sociallogin-kc'
 import 'react-sociallogin-kc/dist/index.css'
 
 const App = () => {
