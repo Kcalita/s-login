@@ -2,7 +2,7 @@
 
 > react component of google sociallogin for react js with oauth 2.0 (new method of google login )
 > The previous google sign library method is going to be deprecate so this is your answer for the new method.
-> check th oauth 2.0 official documents here "https://developers.google.com/identity/gsi/web/guides/overview"
+> check the oauth 2.0 official documents here "https://developers.google.com/identity/gsi/web/guides/overview"
 
 [![NPM](https://img.shields.io/npm/v/react-sociallogin-kc.svg)](https://www.npmjs.com/package/react-sociallogin-kc) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
