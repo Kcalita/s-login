@@ -4,7 +4,7 @@ import React from 'react'
 
 function Glogin() {
   return (
-    <GoogleOAuthProvider clientId='YOUR_CLIENT_ID'>
+    <GoogleOAuthProvider clientId='562677907760-7m99omjeao1ebmgn1ms024mp3pufpcmj.apps.googleusercontent.com'>
       <GoogleLogin
         onSuccess={(credentialResponse) => {
           console.log('login successfull---------->', credentialResponse)
